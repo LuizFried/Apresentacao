@@ -14,6 +14,7 @@
     --colorhover:#fcaf14;
     --colorhoverbackg:#575048;
     --fontprincipal: "Anta", sans-serif;
+    --colorhover2:#ffaa0083;
 }
 
 
@@ -103,8 +104,8 @@ nav{
     font-family: var(--fontprincipal);
 }
 .imagem_principal_hello{
-    width: 40rem;
-    height: 20rem;
+    width: 35rem;
+    height: 22rem;
 }
 
 footer{
@@ -126,7 +127,7 @@ footer{
 }
 
 .github:hover{
-    color: var(--colorhover);
+    color: var(--colorhover2);
     
 }
 
@@ -143,7 +144,7 @@ footer{
 }
 
 .linkedin:hover{
-    color: var(--colorhover);
+    color: var(--colorhover2);
 }
 
 .image_link{
