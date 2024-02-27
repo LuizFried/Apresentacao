@@ -14,7 +14,7 @@
     --colorhover:#fcaf14;
     --colorhoverbackg:#575048;
     --fontprincipal: "Anta", sans-serif;
-    --colorhover2:#ffaa0083;
+    --colorhover2:#490404df;
 }
 
 
@@ -120,7 +120,7 @@ footer{
 
 .github{
     background-color: transparent;
-    color: var(--colorback);
+    color: var(--colorback2);
     font-family: var(--fontprincipal);
     font-weight: 400;
     align-items: center;
@@ -144,6 +144,7 @@ footer{
 }
 
 .linkedin:hover{
+    
     color: var(--colorhover2);
 }
 
